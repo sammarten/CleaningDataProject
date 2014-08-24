@@ -32,6 +32,8 @@ The dataset includes the following files:
 
 - 'tidy_data.txt': Comma-separated, tidy data set continaing the mean for all mean and std dev variables in the data files in this directory.
 
+- 'codebook.md': Describes the fields within tidy_data.txt.
+
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 
 - 'features.txt': List of all features.
